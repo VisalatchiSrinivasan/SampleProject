@@ -1,0 +1,128 @@
+SEO -> Search Engine Optimization
+
+What is SE works?
+
+It works in 5 ways
+
+Crawling:- In this stage it crawl our full websites like pages, content and links whatever 
+and then capture and send it to data server. Also it matches our keywords and pages and 
+send that details to data server.
+
+Indexing:- After crawling, SE allocates a position to our website based on the crawling process.
+
+Processing:- Once it received the user query , if it is related to our keywords then it shows 
+our website to the users.
+
+Calculating relavancy&Retrieving results:- It checks the websites through keywords which is mostly 
+related to user query and allocate the position & display our website based on that relavancy.
+
+
+What we do?
+
+We should develope our website as per SE rules and structure. 
+Then only they consider our website as user friendly and called as organic website.
+
+Portion we should concentrate:-
+
+Page structure / Content / Links
+
+Rules:-
+
+Do's:-
+1.Keyword density max 1% or 2% in 100 words.
+2.Content should be high quality. means it is mostly related to that keyword.
+3.Website should be mobile friendly too.
+4.it checks our website load, speed everything. So we have to maintain that too.
+5.Title- consits of 60-70 char only & core keyword must include in title.
+6.Description:- upto 120 char only . So that our description is able to read 
+both mobile view and desktop view 
+7.Use alt tag in all our website images and it is mandatory. based on that message also se 
+display our website to the user.
+8.Canonical tag ->Used to avoid duplicate content issue. Used inside header tag.[condition:-
+we should use one cananical tag per page]
+9.alternate tag ->Used to avoid version duplication issue. Used inside header tag.
+10.Header tag:-SEO understand our website nature through this header tag only.So if we create our
+header tags in proper schema then SE schema markup is applicable to our website.Mostly we have to
+create short headers only.
+11.Robots tag optimization:- one of the meta tag comes under head section. 
+Based on this tag instruction only SE indexing our web pages. Index / Noindex / follow / nofollow
+12.Language tag:-we have to mention our website lang using this hreflang inside link tag with country 
+code.
+13.Links optimization:-content / img / nav/ footer.
+14.URL optimization:- use lowercase and hypens only. max 50-60 words. must static & redeable
+and we add our keyword to our url it is extra benefit
+15.Must fix favicon for our website to identify our website in multi tabs.
+16.Include google analytics.
+
+Dont's:-
+
+1.Content should not be repeated and meaningless.
+2.Content should not be duplicate which is not related to keyword / Keywords should not 
+stuffed in the content. for eg[in 100 words 10 to 15 words is our keywords means Seo 
+consider it as spam. for that reason our domain spam score will automatically incr. So that it cause 
+decr in ranking rate in se.
+3.Unwanted links not placed in our website anchor tags.
+4.Dont use our keywords in unwanted places.
+5.Description content should not be repeated in all pages.
+6.Don't come duplicate descriptions.
+7.Don't use double quotes between the description.
+8.Don't use more than 1 h1 tag in one page
+9.Don't use our keywords multiple times in single header tag
+10.Don't use header tag as a hiden text. if we do SE put our complete domain in block list
+11.Don't use header tag as a link.
+12.Don't use same header tag in all pages.
+13.Don't create so many links in a single page.
+14.Links didn't redirect to non-related webpages or sites.
+if SE identify that point no 13 & 14 it will put our website as a block list
+15.Don't use underscore in URL / Avoid keyword repetation in url / Avoid dates/ Avoid stop words 
+[as,a,the, and, an, of, or, but ] / Avoid special characters
+
+
+How to set keywords:-
+
+Split keywords into category:-
+
+1.Product
+2.Competitor keywords
+3.branded
+4.geo targeted keywords(city, state or country)
+
+Split keywords into its size:-
+1.Short tail / Mid tail / Long Tail
+
+Create Keyword:-
+
+We can choose one of the below,
+
+1.Information intent:-Question based [how, what,why,where]
+2.Navigational intent:- Brand / product or service name
+3.Transactional intent:- buy / coupon/ order/ cost
+4.commercial intent:- best / top / review
+
+Seed keywords:-
+
+which keywords are mostly searched by the users in google search it is called as seed keywords.
+and it is placed as google search and people also ask.
+
+Check our keyword strength:-
+
+Some free open source tools Such as google keyword planner , keywordtool.io etc
+
+
+
+-------------------------------------------------------------------------------------------------------------
+
+1.Budibase
+2.NocoBase
+3.Baserow
+4.Convertigo
+
+
+
+
+
+
+
+
+
+ 
